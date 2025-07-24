@@ -4,6 +4,6 @@ https://github.com/pblsimpson3/SIW/wiki
 https://github.com/pblsimpson3/SIW/wiki/Introduction  
 https://github.com/pblsimpson3/SIW/wiki/2-Colonial-Times  
 https://github.com/pblsimpson3/SIW/wiki/3-Dig-It-Rocks-&-Minerals 
-https://github.com/pblsimpson3/SIW/wiki/4-Simple-Machines
-https://github.com/pblsimpson3/SIW/wiki/5-End-Review-&-SIW-Visit
+https://github.com/pblsimpson3/SIW/wiki/4-Simple-Machines  
+https://github.com/pblsimpson3/SIW/wiki/5-End-Review-&-SIW-Visit  
 https://github.com/pblsimpson3/SIW/wiki/6-iGuides
