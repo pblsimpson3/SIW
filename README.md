@@ -2,8 +2,8 @@ The Saugus Iron Works Project Based Unit was developed as an HTML website hosted
 The main launch page for viewing all SIW files. Easily view the sequence of pages for the unit.    
 https://github.com/pblsimpson3/SIW/wiki  
 https://github.com/pblsimpson3/SIW/wiki/Introduction  
-https://github.com/pblsimpson3/SIW/wiki/2-Colonial-Times  
-https://github.com/pblsimpson3/SIW/wiki/3-Dig-It-Rocks-&-Minerals 
+https://github.com/pblsimpson3/SIW/wiki/2-Colonial-Times   
+https://github.com/pblsimpson3/SIW/wiki/3-Dig-It-Rocks-&-Minerals   
 https://github.com/pblsimpson3/SIW/wiki/4-Simple-Machines  
 https://github.com/pblsimpson3/SIW/wiki/5-End-Review-&-SIW-Visit  
 https://github.com/pblsimpson3/SIW/wiki/6-iGuides
