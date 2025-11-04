@@ -7,3 +7,5 @@ https://github.com/pblsimpson3/SIW/wiki/3-Dig-It-Rocks-&-Minerals
 https://github.com/pblsimpson3/SIW/wiki/4-Simple-Machines  
 https://github.com/pblsimpson3/SIW/wiki/5-End-Review-&-SIW-Visit  
 https://github.com/pblsimpson3/SIW/wiki/6-iGuides
+***New Hosted Website Version • Launched 11/3/2025***
+https://pblsimpson3.github.io/siw05/
